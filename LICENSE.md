@@ -1,4 +1,4 @@
-# 
+# advanced MEV sniper bot plugins is the best MEV sniper bot plugins with degen-coin-scanning and back-running. Safe, reliable, and optimized for MEV, sniper, and arbitrage
 
 
 
